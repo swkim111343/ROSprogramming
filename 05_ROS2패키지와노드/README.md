@@ -11,7 +11,6 @@
 
 ## 실습과제
 <img width="935" height="131" alt="스크린샷 2026-09-15 212807" src="https://github.com/user-attachments/assets/ab7aba9d-3ebe-419e-9583-939234ec5c85" />
-<img width="1905" height="962" alt="스크린샷 2026-09-15 213336" src="https://github.com/user-attachments/assets/e3eb65a8-1fc1-408a-9b48-4379d01af0fc" />
 <img width="605" height="152" alt="스크린샷 2026-09-15 213440" src="https://github.com/user-attachments/assets/bdc212fd-c5a1-4187-a1d4-1788a0198704" />
 <img width="651" height="141" alt="스크린샷 2026-09-15 213453" src="https://github.com/user-attachments/assets/4ed90c02-0fe1-477d-8ecd-5db0b23e4e5b" />
 <img width="678" height="60" alt="스크린샷 2026-09-15 213504" src="https://github.com/user-attachments/assets/cde1708f-8007-4687-86b7-664070a79596" />
