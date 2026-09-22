@@ -22,3 +22,4 @@
 
 2. 명령과 출력 결과가 일치하는지 설명하라.
 $ ros2 topic pub --rate 1 /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 2.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 1.8}}"
+<img width="1888" height="992" alt="스크린샷 2026-09-22 112812" src="https://github.com/user-attachments/assets/4792cf16-f062-41fa-b18b-c6d7886331f9" />
