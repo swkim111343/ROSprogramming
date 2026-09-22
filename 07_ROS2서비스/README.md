@@ -1,4 +1,4 @@
-<img width="1507" height="557" alt="스크린샷 2026-09-22 192842" src="https://github.com/user-attachments/assets/b35f1fea-83d6-451b-8db7-d64906916c99" />## 과제
+## 과제
 ## 실습과제1
 1. 모든 명령어의 사용예를 실습하고 결과를 캡쳐하여 제출하시오.
 <img width="1150" height="802" alt="스크린샷 2026-09-22 191344" src="https://github.com/user-attachments/assets/4550b0f9-6fbf-49ee-85ca-9adcf140ff1b" />
