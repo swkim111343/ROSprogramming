@@ -7,5 +7,6 @@
     - 인터페이스 (Interface) : ROS 2에서 통신에 사용하는 데이터 구조의 정의를 통칭
 
 2. ros2 명령어를 이용하여 turtlesim과 teleop_turtle노드를 각각 실행 하고 현재 실행중인 토픽메시지와 메시지 인터페이스를 출력하시오. 
+<img width="1062" height="425" alt="스크린샷 2026-09-28 221954" src="https://github.com/user-attachments/assets/ea7d399d-61c4-42fc-94e6-4309bf68a4ed" />
 
 3. 앞에서 출력한 메시지 인터페이스의 정의를 ros2 명령어를 이용하 여 각각 출력하시오.
