@@ -20,5 +20,6 @@
 ## 실습과제2
 1. CMake를 이용하여 2개의 정수를 입력 받아 합을 출력하는 C++프로그램을 작성하시오. 프로젝트의 구조는 다음과 같이 작성하라.
 <img width="863" height="377" alt="스크린샷 2026-10-01 164321" src="https://github.com/user-attachments/assets/1e276589-7c32-42b9-857a-88b42fa6e95a" />
-    - CMakeLists.txt파일은 그대로 main.cpp만 소스코드 수정
+
+- CMakeLists.txt파일은 그대로 main.cpp만 소스코드 수정
       
