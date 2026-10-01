@@ -22,17 +22,16 @@
 <img width="863" height="377" alt="스크린샷 2026-10-01 164321" src="https://github.com/user-attachments/assets/1e276589-7c32-42b9-857a-88b42fa6e95a" />
 
 CMakeLists.txt
-'''
-cmake_minimum_required(VERSION 3.16.3)
+
+'cmake_minimum_required(VERSION 3.16.3)
 
 project(Hello)
 
-add_executable(Hello main.cpp)
-'''
+add_executable(Hello main.cpp)'
 
 main.cpp
-'''
-#include <iostream>
+
+'#include <iostream>
 using namespace std;
 
 int main()
@@ -48,5 +47,4 @@ int main()
     cout << "합: " << a + b << endl;
 
     return 0;
-}
-'''
+}'
