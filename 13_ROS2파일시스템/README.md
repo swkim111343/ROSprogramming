@@ -24,8 +24,11 @@
 
 ## 실습과제 2
 1. 사용자 홈디렉터리 아래에 작업폴더 ros2_ws를 생성하고 강의노트의 패키지 생성 및 빌드 명령어를 실습하고 결과를 제출하시오.
+<img width="942" height="848" alt="스크린샷 2026-10-07 161951" src="https://github.com/user-attachments/assets/7c5874c2-280a-4478-84ed-129e4ff3c31c" />
 
 2. 자동으로 생성되는 파일과 디렉터리를 출력하고 각각 설명하시오.
+<img width="911" height="350" alt="스크린샷 2026-10-07 161607" src="https://github.com/user-attachments/assets/6f142ee6-28b3-44b6-9e9e-5b5116312712" />
+
     - CMakeLists.txt : CMake 빌드 설정 파일. 패키지를 어떻게 빌드하고 어떤 라이브러리나 실행 파일을 생성할지 정의
     - package.xml : ROS 2 패키지 정보 및 의존성 설정 파일. 패키지 이름, 버전, 설명, 라이선스, 의존 패키지 등을 정의
     - include/ : C/C++ 패키지에서 사용하는 **헤더 파일(.hpp, .h)**을 저장하는 디렉터리
