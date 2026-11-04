@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/4c702953-496d-4dcf-9954-64a63fadc633
 ## 실습과제1
 -----------------------
 <img width="922" height="472" alt="스크린샷 2026-11-04 213256" src="https://github.com/user-attachments/assets/0c98286b-6543-489c-94a3-716ab02c5dbb" />
@@ -12,5 +10,5 @@ https://github.com/user-attachments/assets/4c702953-496d-4dcf-9954-64a63fadc633
 
 ## 실습과제3
 ----------------------
-https://github.com/user-attachments/assets/110f4908-05bb-478a-9550-311db488c56c
+Uploading 화면 녹화 중 2026-11-04 221417.mp4…
 
