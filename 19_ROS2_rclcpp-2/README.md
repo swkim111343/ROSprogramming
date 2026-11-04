@@ -10,5 +10,5 @@
 
 ## 실습과제3
 ----------------------
-Uploading 화면 녹화 중 2026-11-04 221417.mp4…
+https://github.com/user-attachments/assets/6470cadd-b95d-4f15-b7b6-6f628f518f54
 
